@@ -15,3 +15,7 @@ Projeto desenvolvido para testar o desenvolvimento do zero até a hospedagem de 
 - [iconfinder](https://www.iconfinder.com)
 
 - [Optimizilla](https://imagecompressor.com/pt/)
+
+### Validação W3C
+- [HTML](https://jigsaw.w3.org/css-validator/)
+- [CSS](https://validator.w3.org)
